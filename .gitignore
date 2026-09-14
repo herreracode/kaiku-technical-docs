@@ -1,0 +1,17 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Temporales
+*.tmp
+*.log
+
+# Dependencias y build (por si se añaden herramientas)
+node_modules/
+dist/
+build/
